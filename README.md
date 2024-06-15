@@ -21,7 +21,8 @@ AI Interview Mocker is a web application designed to help users practice for job
 1. Clone the repository: `git clone https://github.com/Amitansu-priyadarsan/AI-Interview-mocker.git`
 2. Install dependencies: `cd AI-Interview-mocker && npm install`
 3. Start the development server: `npm run dev`
-4. Visit `http://localhost:3000` in your browser to access the application.
+4. Visit `ai-interview-mocker-nu.vercel.app
+` in your browser to access the application.
 
 ## Deployment
 The application is deployed using Vercel for the frontend, Heroku for the backend, and MongoDB Atlas for the database. 
